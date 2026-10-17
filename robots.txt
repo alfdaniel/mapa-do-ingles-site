@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /progresso/
+Disallow: /revisar/
+
+Sitemap: https://alfdaniel.github.io/mapa-do-ingles-site/sitemap.xml

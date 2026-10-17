@@ -1,0 +1,32 @@
+1:"$Sreact.fragment"
+2:"/mapa-do-ingles-site/_next/static/chunks/40qfq8o0ql3x_.js"
+3:"/mapa-do-ingles-site/_next/static/chunks/1i3-u07wouq7v.js"
+4:I[1403,["$2","$3"],"DonateProvider"]
+5:I[70119,["$2","$3"],"Header"]
+6:I[39756,["$2","$3"],"default"]
+7:I[37457,["$2","$3"],"default"]
+8:I[22016,["$2","$3"],""]
+f:I[97367,["$2","$3"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$2","$3"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$2","$3"],"$15"]
+:HL["/mapa-do-ingles-site/_next/static/chunks/06khcsjil1b6d.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap","style"]
+:HL["https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,400..600,0..1,0&icon_names=autorenew,celebration,description,download,edit,emoji_events,favorite,info,lightbulb,star,visibility,volume_up&display=block","style"]
+a:X
+d:X
+d:C
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","section",null,{"className":"band","children":["$","div",null,{"className":"wrap","style":{"display":"grid","gap":16,"justifyItems":"start"},"children":[["$","span",null,{"className":"eyebrow","children":"Página não encontrada"}],["$","h1",null,{"style":{"fontSize":"clamp(2rem,4.4vw,3rem)"},"children":"Esse caminho não está no mapa."}],["$","$L8",null,{"className":"btn btn-primary","href":"/modulos/","children":"Ver os módulos"}]]}]}],null,["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$a"}}]]
+b:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@c","v":"$d","s":"$a"},"c":"$Qe"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mapa-do-ingles-site/_next/static/chunks/06khcsjil1b6d.css","precedence":"next"}],["$","script","script-0",{"src":"/mapa-do-ingles-site/_next/static/chunks/40qfq8o0ql3x_.js","async":true}],["$","script","script-1",{"src":"/mapa-do-ingles-site/_next/static/chunks/1i3-u07wouq7v.js","async":true}]],["$","html",null,{"lang":"pt-BR","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,400..600,0..1,0&icon_names=autorenew,celebration,description,download,edit,emoji_events,favorite,info,lightbulb,star,visibility,volume_up&display=block"}]]}],["$","body",null,{"children":["$","$L4",null,{"children":[["$","a",null,{"href":"#conteudo","className":"skip","children":"Pular para o conteúdo"}],["$","$L5",null,{}],["$","main",null,{"id":"conteudo","children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","section",null,{"className":"band","children":["$","div",null,{"className":"wrap","style":{"display":"grid","gap":16,"justifyItems":"start"},"children":[["$","span",null,{"className":"eyebrow","children":"Página não encontrada"}],["$","h1",null,{"style":{"fontSize":"clamp(2rem,4.4vw,3rem)"},"children":"Esse caminho não está no mapa."}],["$","$L8",null,{"className":"btn btn-primary","href":"/modulos/","children":"Ver os módulos"}]]}]}],[]]}]}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","span",null,{"children":"Mapa do Inglês · material gratuito de inglês para brasileiros"}],["$","span",null,{"children":"Seu progresso fica salvo só neste aparelho. Compartilhe à vontade. Não venda."}],["$","$L8",null,{"className":"foot-apoiar","href":"/apoiar/","children":[["$","span",null,{"className":"ms fill","aria-hidden":true,"children":"favorite"}]," Apoie o Mapa do Inglês"]}]]}]}]]}]}]]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#FFFFFF","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#12151C","media":"(prefers-color-scheme: dark)"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Mapa do Inglês · curso de inglês grátis do A1 ao C1"}],["$","meta","1",{"name":"description","content":"Curso completo de inglês em mapas mentais e atividades com correção na hora. 30 módulos para estudar online ou baixar em PDF. Grátis, sem cadastro."}],["$","meta","2",{"property":"og:title","content":"Mapa do Inglês · curso de inglês grátis do A1 ao C1"}],["$","meta","3",{"property":"og:description","content":"Curso completo de inglês em mapas mentais e atividades com correção na hora. 30 módulos para estudar online ou baixar em PDF. Grátis, sem cadastro."}],["$","meta","4",{"property":"og:site_name","content":"Mapa do Inglês"}],["$","meta","5",{"property":"og:locale","content":"pt_BR"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Mapa do Inglês · curso de inglês grátis do A1 ao C1"}],["$","meta","9",{"name":"twitter:description","content":"Curso completo de inglês em mapas mentais e atividades com correção na hora. 30 módulos para estudar online ou baixar em PDF. Grátis, sem cadastro."}]]}]}],null]}],null]}],"p":"$@17","v":null,"s":"$a"}},"a":"$@18","u":"$@19","b":"pKZDjSq5axnANU7LlbZif"}
+11:null
+a:300
+19:true
+a:C
+18:0
+c:"$undefined"
+9:"$undefined"
+17:"$undefined"
+12:"$undefined"
